@@ -1,0 +1,124 @@
+
+.men{
+	display: all;	
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: auto;
+
+}
+
+.Menu ul {
+
+	background-color: black;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+
+.Menu ul li{
+	display: inline-block;
+
+}
+
+.Menu ul li a{
+	color: white;
+	display: block;
+	padding: 10px 20PX;
+	text-decoration: none;
+}
+
+.Menu ul li a:hover{
+	background-color: gray;
+}
+
+#p1 h2 {
+	font-size: 28px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+#p1 p{
+font-size: 13px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+#p1 a{
+	color: black;
+}
+#p1 a:hover{
+	background-color: gray;
+}
+#p2 h2 {
+	font-size: 28px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+#p2 p{
+font-size: 13px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+#p3 h2 {
+	font-size: 28px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+#p3 p{
+font-size: 13px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+
+#p4 h2 {
+	font-size: 28px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+#p4 p{
+font-size: 13px;
+	font-family: Georgia;
+	display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+	width: 600px;
+}
+footer{
+	 margin-top:1px;
+    width:100%;
+    height:50px;
+    background-color:#CAAC85;
+    display: flex;;
+	flex-wrap: wrap;
+	margin:1;
+}
+
+aside{
+		background-color: gray;
+display: flex;
+flex-wrap: wrap;
+width: 300px;
+margin: 1;
+float: right;
+
+}
+
